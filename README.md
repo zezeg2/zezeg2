@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Jonghyeon Park — Software, Systems, and Tools" src="./assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/banner-light.svg">
+  <img alt="Jonghyeon Park — Software, Systems, and Tools" src="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -51,9 +51,9 @@
 ## How I work
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/workflow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/workflow-light.svg">
-  <img alt="Explore, design, build, verify, and refine" src="./assets/workflow-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/workflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/workflow-light.svg">
+  <img alt="Explore, design, build, verify, and refine" src="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/workflow-light.svg" width="100%">
 </picture>
 
 ## Building with
@@ -67,7 +67,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img alt="" src="./assets/footer-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/footer-light.svg">
+  <img alt="" src="https://raw.githubusercontent.com/zezeg2/zezeg2/main/assets/footer-light.svg" width="100%">
 </picture>
