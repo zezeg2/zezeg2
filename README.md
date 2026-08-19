@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/zezeg2?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/zezeg2?style=flat-square&logo=github&label=Followers&color=238636"></a>
   <a href="https://central.sonatype.com/artifact/io.github.zezeg2/ai-support"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.zezeg2/ai-support?style=flat-square&logo=apachemaven&logoColor=white&label=Maven%20Central&color=C71A36"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zezeg2&style=flat-square&color=0969da&label=Profile+views">
 </p>
 
 <p align="center">
