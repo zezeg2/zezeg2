@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jonghyeon Park</title>
+  <desc id="desc">Software, systems, and tools. Turning complexity into clear systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.52" stop-color="#111c2e"/>
+      <stop offset="1" stop-color="#0b2a2d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8b949e" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1040" cy="30" r="210" fill="#2dd4bf" opacity="0.05"/>
+  <circle cx="1120" cy="340" r="250" fill="#58a6ff" opacity="0.045"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M72 74H235L285 124H420" stroke="#58a6ff" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M780 82H914L962 130H1128" stroke="#2dd4bf" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M778 282H906L956 232H1128" stroke="#58a6ff" stroke-opacity="0.2" stroke-width="2"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="72" cy="74" r="5" fill="#58a6ff"/>
+    <circle cx="420" cy="124" r="5" fill="#2dd4bf"/>
+    <circle cx="780" cy="82" r="5" fill="#58a6ff"/>
+    <circle cx="1128" cy="130" r="5" fill="#2dd4bf"/>
+    <circle cx="778" cy="282" r="5" fill="#2dd4bf"/>
+    <circle cx="1128" cy="232" r="5" fill="#58a6ff"/>
+  </g>
+
+  <text x="600" y="148" text-anchor="middle" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="57" font-weight="700" letter-spacing="2">JONGHYEON PARK</text>
+  <rect x="398" y="177" width="404" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="600" y="220" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="5">SOFTWARE  ·  SYSTEMS  ·  TOOLS</text>
+  <text x="600" y="270" text-anchor="middle" fill="#c9d1d9" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">Turning complexity into clear systems.</text>
+</svg>

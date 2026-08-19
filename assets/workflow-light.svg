@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">How I work</title>
+  <desc id="desc">Explore, design, build, verify, and refine.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#0f8f7b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="20" fill="#f6f8fa"/>
+  <path d="M145 94H1055" stroke="url(#line)" stroke-width="3" stroke-opacity="0.55"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+    <g transform="translate(150 94)"><circle r="35" fill="#ffffff" stroke="#0969da" stroke-width="2"/><text y="6" fill="#24292f" font-size="17">01</text><text y="68" fill="#57606a" font-size="16">EXPLORE</text></g>
+    <g transform="translate(375 94)"><circle r="35" fill="#ffffff" stroke="#0873c7" stroke-width="2"/><text y="6" fill="#24292f" font-size="17">02</text><text y="68" fill="#57606a" font-size="16">DESIGN</text></g>
+    <g transform="translate(600 94)"><circle r="35" fill="#ffffff" stroke="#087fae" stroke-width="2"/><text y="6" fill="#24292f" font-size="17">03</text><text y="68" fill="#57606a" font-size="16">BUILD</text></g>
+    <g transform="translate(825 94)"><circle r="35" fill="#ffffff" stroke="#0b898f" stroke-width="2"/><text y="6" fill="#24292f" font-size="17">04</text><text y="68" fill="#57606a" font-size="16">VERIFY</text></g>
+    <g transform="translate(1050 94)"><circle r="35" fill="#ffffff" stroke="#0f8f7b" stroke-width="2"/><text y="6" fill="#24292f" font-size="17">05</text><text y="68" fill="#57606a" font-size="16">REFINE</text></g>
+  </g>
+</svg>

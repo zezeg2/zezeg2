@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Decorative footer">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+  <path d="M0 62C160 20 310 95 480 56S800 18 950 55s190 30 250 8v37H0Z" fill="url(#g)" opacity="0.18"/>
+  <path d="M0 71C180 34 300 93 490 65s310-55 475-9 188 24 235 11" fill="none" stroke="url(#g)" stroke-width="2" opacity="0.75"/>
+</svg>
