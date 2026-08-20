@@ -16,7 +16,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Multi-chain issuance control</h3>
-      <p>12개 저장소로 나뉜 멀티체인 스테이블코인 발행·상환 플랫폼. 서명 권한과 실행 주체를 분리하고, 온·오프체인에 걸친 재시도·중복 실행·체인 간 상태 정합성을 다뤘습니다.</p>
+      <p>12개 저장소로 나뉜 멀티체인 스테이블코인 발행·상환 플랫폼. 서명 권한과 실행 주체를 분리하고, 온·오프체인에 걸친 재시도·중복 실행·체인 간 상태 정합성을 다룸</p>
       <p><a href="https://github.com/zezeg2/minting-platform-portfolio"><strong>View repository →</strong></a></p>
       <p><code>12 repos</code> <code>Idempotency</code> <code>Trust boundaries</code> <code>Audit</code></p>
     </td>
@@ -30,7 +30,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>AI-Support</h3>
-      <p>LLM 호출을 Java 함수로 정의하고, 응답을 사용자 정의 타입으로 반환하는 Spring Boot 라이브러리. 동기·리액티브 실행, 검증 체인, local/Redis/Mongo 대화 컨텍스트를 지원하며 Maven Central에 2.1.4까지 배포했습니다.</p>
+      <p>LLM 호출을 Java 함수로 정의하고, 응답을 사용자 정의 타입으로 반환하는 Spring Boot 라이브러리. 동기·리액티브 실행, 셀프 검증 루프, local/Redis/Mongo 대화 컨텍스트를 지원, Maven Central에 2.1.4까지 배포</p>
       <p><a href="https://github.com/zezeg2/ai-support"><strong>View repository →</strong></a></p>
       <p><code>Java</code> <code>Spring Boot</code> <code>Reactive</code> <code>Maven Central</code></p>
     </td>
