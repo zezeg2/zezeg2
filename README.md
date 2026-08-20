@@ -58,7 +58,7 @@
 ## Building with
 
 <p align="center">
-  <img alt="Java, Spring, Rust, TypeScript, JavaScript, Python, Docker, Git, and GitHub" src="https://skillicons.dev/icons?i=java,spring,rust,ts,js,python,docker,git,github&theme=dark&perline=9">
+  <img alt="Java, Spring, Rust, TypeScript, JavaScript, Python, Docker, Git, and GitHub" src="https://skillicons.dev/icons?i=java,kotlin,spring,go,rust,nodejs,python,docker,git,github">
 </p>
 
 <p align="center">
